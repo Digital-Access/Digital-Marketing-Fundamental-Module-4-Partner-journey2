@@ -12,6 +12,10 @@ const config = {
         "Time consuming and complex"
     ],
     answer_options: [
+        "",
+        "",
+        "",
+        "",
         ""
     ],
     answer_background_colour: "rgba(37, 81, 123, 0.5)",
@@ -24,6 +28,10 @@ const config = {
         "https://a.storyblok.com/f/112136/1001x277/b19f35c3e3/time-consuming-8-600e834c8dc292-92133623.png"
     ],
     small_answer_image: [
+        "",
+        "",
+        "",
+        "",
         ""
     ],
     background_colour: "rgba(37, 81, 123, 1)",
